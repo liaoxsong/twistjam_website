@@ -6,7 +6,7 @@
 .button.button-primary {
   background-color: white;
   border-color: white;
-  color: pink;
+  color: rgb(247, 59, 108);
 }
 .button.button-primary:hover {
   background-color: white;
