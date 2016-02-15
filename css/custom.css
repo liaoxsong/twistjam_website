@@ -14,7 +14,7 @@
   color: pink;
 }
 .social-links {
-  margin-top: 12rem;
+  margin-top: 5rem;
 }
 .app-name {
   /*color: ;*/
@@ -141,6 +141,9 @@ a, a:hover {
   }
   .categories {
     padding: 15rem 0 8rem;
+  }
+  .social-links {
+    margin-top: 15rem;
   }
 }
 
